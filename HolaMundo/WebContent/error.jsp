@@ -7,13 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hola Platzi</h1>
-	<form action="login" method="post">
-		name: <input type="text" name="name" required>
-		<br>
-		password: <input type="password" name="password" required>
-		<br>
-		<input type="submit" value="login">
-	</form>
+<h1>Login incorrect</h1>
 </body>
 </html>
